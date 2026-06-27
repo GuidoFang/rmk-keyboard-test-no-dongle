@@ -45,7 +45,6 @@ row2col = false
 
 [storage]
 enabled = true
-clear_storage = true
 
 [behavior.morse]
 hold_on_other_press = true
